@@ -11,9 +11,9 @@
     font-family: 'Raleway', sans-serif;
   }
 }
-/* * {
+* {
   scroll-behavior: smooth !important;
-} */
+}
 .icons:hover {
   color: #d97706 !important;
 }
